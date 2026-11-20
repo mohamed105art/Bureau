@@ -1,0 +1,6 @@
+{
+  "name": "المنظومة الرقمية للمراسلات الإدارية - المديرية الإقليمية للعدل بسطات",
+  "description": "Système numérique de gestion et de rédaction des correspondances administratives – Direction Provinciale de la Justice de Settat",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
